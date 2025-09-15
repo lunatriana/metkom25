@@ -1,29 +1,15 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "id": "40a93d47-9f0d-4e0a-b33c-67b1f7b7289d",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "55eeefad-c906-4bcf-8e3b-330894108439",
    "metadata": {},
+   "outputs": [],
    "source": [
-    "# <center> ini percobaan ygy </center>\n",
+    "# ini percobaan ygy \n",
     "## bismillah bisa"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "f62fd755-0032-4329-8057-3c06296beb27",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "580c9251-2adc-4dd0-9e9e-e6d0a9144be0",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
